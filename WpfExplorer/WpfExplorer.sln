@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplorer", "WpfExplorer.csproj", "{201ED7B4-FB0F-4491-9FD6-4F9FC09BAC7E}"
-	ProjectSection(ProjectDependencies) = postProject
-		{F8A0F1CD-A90C-4DBA-A507-7A892EEF774D} = {F8A0F1CD-A90C-4DBA-A507-7A892EEF774D}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplorer.Support", "..\WpfExplorer.Support\WpfExplorer.Support.csproj", "{F8A0F1CD-A90C-4DBA-A507-7A892EEF774D}"
 EndProject

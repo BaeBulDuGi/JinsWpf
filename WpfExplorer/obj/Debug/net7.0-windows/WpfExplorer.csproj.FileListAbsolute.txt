@@ -26,3 +26,5 @@ C:\jinsworks\JinsWpf\WpfExplorer\obj\Debug\net7.0-windows\refint\WpfExplorer.dll
 C:\jinsworks\JinsWpf\WpfExplorer\obj\Debug\net7.0-windows\WpfExplorer.pdb
 C:\jinsworks\JinsWpf\WpfExplorer\obj\Debug\net7.0-windows\WpfExplorer.genruntimeconfig.cache
 C:\jinsworks\JinsWpf\WpfExplorer\obj\Debug\net7.0-windows\ref\WpfExplorer.dll
+C:\jinsworks\JinsWpf\WpfExplorer\bin\Debug\net7.0-windows\WpfExplorer.Support.dll
+C:\jinsworks\JinsWpf\WpfExplorer\bin\Debug\net7.0-windows\WpfExplorer.Support.pdb
